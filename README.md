@@ -1,5 +1,5 @@
-# Everlend-Loan-Analysis
-In the realm of financial services, EverLend stands out as a data-driven powerhouse. Leveraging an extensive repository of loan records, I delve into the exploration of Everlend's borrowers’ experiences. Each data point narrates a unique story—a tale of financial decisions, creditworthiness, loan dynamics, credit scores, financial missteps and duality of repayment.
+# Everlend Loan Analysis
+EverLend stands out as a data-driven powerhouse in the world of financial service. Leveraging an extensive repository of loan records, I delve into the exploration of Everlend's borrowers’ experiences. Each data point narrates a unique story—a tale of financial decisions, creditworthiness, loan dynamics, credit scores, financial missteps and duality of repayment.
 
 ### Goal:
 The aim for this analysis is to discover insights that empower informed lending decisions and enhance EverLend's lending strategies.
