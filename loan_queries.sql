@@ -18,7 +18,7 @@ not_fully_paid numeric
 );
 */
 
--- load the data
+-- load the data from local storage
 /*
 COPY loan FROM 'C:\Users\Public\Documents\archive\loan_data.csv' DELIMITER ',' CSV HEADER;
 */
